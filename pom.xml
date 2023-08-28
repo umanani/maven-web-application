@@ -83,7 +83,7 @@
 		</dependency>
 		
 		<!-- provided dependencies -->
-<!--
+
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -108,7 +108,7 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
---->
+
 	<build>
 		<finalName>maven-web-application</finalName>
 		
